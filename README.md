@@ -17,5 +17,5 @@ The system/PGPortfolio stores the code of EIIE model, the entire model can be ru
 ### ./frontend
 This contans the html, css and javascript needed to build the frontend. 
 
-### if.py
+### lf.py
 This is the python code for the lambda function on AWS. You need to manually create an API Gateway to connect the lambda function to frontend.
